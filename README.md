@@ -28,7 +28,7 @@
 ### Linux
 
 1. Open your terminal  
-2. Clone the repo: `git clone https://github.com/virexpy/Snapscore-Booster`  
+2. Clone the repo: `git clone https://github.com/zenoxcs/Snapscore-Booster`  
 3. Go into the folder: `cd Snapscore-Booster`  
 4. Install the dependencies: `pip install -r requirements.txt`  
 5. Install `scrcpy` to control your Android phone  
